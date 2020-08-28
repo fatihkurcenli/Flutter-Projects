@@ -32,12 +32,16 @@ class _MyHomePageState extends State<MyHomePage> {
 
   //we create imgList.
   List imgList = [
-    "images/holiday1.jpg",
-    "images/holiday2.jpg",
-    "images/holiday3.jpg",
-    "images/holiday4.jpg",
-    "images/holiday5.jpg",
-    "images/holiday6.jpg",
+    "images/images1.jpg",
+    "images/images2.jpg",
+    "images/images3.jpg",
+    "images/images4.jpg",
+    "images/images5.jpg",
+    "images/images6.jpg",
+    "images/images7.jpg",
+    "images/images8.jpg",
+    "images/images9.jpg",
+
   ];
 
   List<T> map<T>(List list, Function handler) {
