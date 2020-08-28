@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       title: 'Slider Example',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blueGrey,
+        primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: MyHomePage(title: 'Slider Example'),
