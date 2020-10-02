@@ -41,7 +41,6 @@ class _MyHomePageState extends State<MyHomePage> {
     "images/images7.jpg",
     "images/images8.jpg",
     "images/images9.jpg",
-
   ];
 
   List<T> map<T>(List list, Function handler) {
